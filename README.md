@@ -20,7 +20,7 @@ Jupyter Notebook for the analysis of MD simulations. This file requires the foll
 
 📂 **MD_trajectories/**  
 
-Here we provide all the necessary files to run the MD simulations of the complex BLVRB-BCT2029 with gromacs. Due to file size limitations, you need download the trajectory files from [this link](https://drive.google.com/drive/folders/1eNCcIDLMw3iqg9ZUN0PxZQMFvLy7tn-c?usp=drive_link).
+Here we provide all the necessary files to run the MD simulations of the complex BLVRB-BCT2029 with gromacs. Due to file size limitations, the trajectory files are available [here](https://drive.google.com/drive/folders/1eNCcIDLMw3iqg9ZUN0PxZQMFvLy7tn-c?usp=drive_link).
 
 📂 **CharmmGuiOutput/**  
 &nbsp;&nbsp;&nbsp;&nbsp;📁 **gromacs/** - Input files for GROMACS MD simulations
